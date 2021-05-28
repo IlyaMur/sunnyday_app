@@ -18,7 +18,7 @@
 
 ### Как запустить?
 
-Для установки зависимостей:
+Для установки зависимостей:  
 ```$ bundle install```  
 
 Перед запуском необходимо получить доступ к API OpenWeatherMap (https://openweathermap.org/) и записать ключ в переменную `OPENWEATHERMAP_API_KEY` в файл `./.env`
